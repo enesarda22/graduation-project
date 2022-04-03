@@ -1,2 +1,3 @@
 # graduation-project
-PERFORMANCE COMPARISON OF BERT-BASED AND ALTERNATIVE METHODS ON SENTIMENT ANALYSIS
+Performance Comparison of BERT-Based And Alternative Methods on Sentiment Analysis
+****
